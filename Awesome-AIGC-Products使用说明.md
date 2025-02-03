@@ -4,7 +4,7 @@
 
 ## 一、我们是谁？
 
-<img src="D:\公众号\公众号logo\ai产品汇logo\ai产品汇logo\黑白ai产品汇.jpg" alt="黑白ai产品汇" style="zoom:25%;" />
+<img src="imgs/黑白ai产品汇.jpg" alt="黑白ai产品汇" style="zoom:25%;" />
 
 "AI产品汇"--是我自己在2023年创建的一个AI&AIGC社区--致力于”**打造一个有温度、有趣味、专业的AI&AIGC全栈交流社区**“，持续更新最前沿的AIGC算法、应用与产品，涉及"AI生成图片"、“AI生成视频”、“AI生成3D”、“大模型/多模态”、“机器人/具身智能”等N+个热门AIGC子领域！
 
@@ -73,4 +73,4 @@
 - [x] 欢迎大家关注“AI产品汇” 微信公众号，我们只做最前沿的AIGC原创内容，每一篇文章都是甄选！
 - [x] 欢迎大家顺手给个Star，赠人玫瑰，手有余香，何况是这么好的资料！
 
-![image-20250203160743501](C:\Users\WZZ_1\AppData\Roaming\Typora\typora-user-images\image-20250203160743501.png)
+![image-20250203160743501](imgs/二维码.png)
