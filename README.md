@@ -1,6 +1,6 @@
 # Awesome-AIGC-Products使用说明
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aigc-boys&show_icons=true&theme=radical)
 
 ## 一、我们是谁？
 
@@ -76,5 +76,3 @@
 - [x] **欢迎大家顺手给个Star**，赠人玫瑰，手有余香，感谢！
 
 ![image-20250203160743501](imgs/二维码.png)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aigc-boys)](https://github.com/anuraghazra/github-readme-stats)
